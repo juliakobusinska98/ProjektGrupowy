@@ -56,8 +56,8 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\ButtonHandler.cs" />
-     <Compile Include="Assets\Scripts\Name.cs" />
-     <Compile Include="Assets\Scritps\FishController.cs" />
+     <Compile Include="Assets\Scripts\FishController.cs" />
+     <Compile Include="Assets\Scripts\GetPlayersName.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/GitHub/ProjektGrupowy/podwodny_swiat_tabliczki_mnozenia/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
